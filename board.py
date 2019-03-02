@@ -1,5 +1,6 @@
+import sys
 class Board:
-    def __init__(self):
+    def __init__(self, boardSize):
         board = [0]*(boardSize**2)
 
     def showBoard():
