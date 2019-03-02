@@ -6,6 +6,7 @@ from gamepiece import Gamepiece
 from capstone import Capstone
 '''
 import tak
+
 class tak(self):
     def init_Players():
         pass
